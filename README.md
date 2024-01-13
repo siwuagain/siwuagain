@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @siwuagain
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me email
+Computer Science at McGill University
 
 <!---
 siwuagain/siwuagain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
